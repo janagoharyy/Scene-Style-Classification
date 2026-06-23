@@ -61,7 +61,7 @@ We evaluated multiple deep learning architectures:
 
 EVA02-L-14 achieved the best performance among all tested models.
 
-- Validation Accuracy: **48.47%**
+- Validation Accuracy: **47.8%**
 - Input Size: 224×224
 - Optimizer: Adam
 - Scheduler: CosineAnnealingLR
